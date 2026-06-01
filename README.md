@@ -50,23 +50,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasya1505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=06B6D4&text_color=FFFFFF"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hasya1505&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6&sideNums=FFFFFF&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasya1505&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasya1505&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hasya1505&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
@@ -84,7 +68,7 @@
 
 <div align="center">
 
-### 👀 Profile Views
+###  Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Hasya1505&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 
@@ -122,62 +106,69 @@
 
 <table>
   <tr>
+    <!-- PROJECT 1: PHARMACY MANAGEMENT SYSTEM -->
     <td width="50%" valign="top">
       <div align="left">
-        <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system">MediStore Pro</a></h3>
-        <p><i>Enterprise Pharmacy & Billing System</i></p>
-        <p>A secure, scalable architecture optimized for multi-tier medical inventory logging and client analytical summaries.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system">pharmacy-management-system</a></h3>
+        <p><i>Enterprise Pharmacy Billing & Inventory Architecture</i></p>
+        <p>A secure, scalable web ecosystem optimized for multi-tier medical stock logging, query processing, and analytical client billing summaries.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
         </p>
-        <hr size="1" color="#2563EB">
-        💾 <b>Focus:</b> Normalization schemas, optimized relational lookups, and glassmorphic dashboard views.
+        <hr size="1" color="#22D3EE">
+        <span>💾 <b>Focus:</b> Relational database optimization, transactional CRUD integrity, and modern Bento-Grid dashboard views.</span>
       </div>
     </td>
+
+    <!-- PROJECT 2: CREDIT CARD FRAUD ANALYSIS -->
     <td width="50%" valign="top">
       <div align="left">
-        <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project">Fraud Analytics Pipeline</a></h3>
-        <p><i>Imbalanced Data ML Solution</i></p>
-        <p>An end-to-end classification structure resolving critical multi-factor sample anomalies to isolate deceptive banking footprints.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+        <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project">Credit-Card-Fraud-Analysis-Project</a></h3>
+        <p><i>Advanced Machine Learning Fraud Detection Pipeline</i></p>
+        <p>An end-to-end predictive model solving extreme class imbalance anomalies to accurately identify and isolate deceptive financial footprints.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
         </p>
-        <hr size="1" color="#2563EB">
-        💾 <b>Focus:</b> Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and customized Precision-Recall tuning parameters.
+        <hr size="1" color="#22D3EE">
+        <span>💾 <b>Focus:</b> Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and strict Precision-Recall threshold tuning.</span>
       </div>
     </td>
   </tr>
+
   <tr>
+    <!-- PROJECT 3: MOVIE RECOMMENDATION PROJECT -->
     <td width="50%" valign="top">
       <div align="left">
-        <h3>🎬 <a href="https://github.com/Hasya1505/movie-recommendation-project">CineMatch Engine</a></h3>
-        <p><i>Hybrid Recommendation System</i></p>
-        <p>A smart filtering engine analyzing collaborative structural matrix arrays and token arrays to map precise user tastes.</p>
-        <p>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <h3>🎬 <a href="https://github.com/Hasya1505/movie-recommendation-project">movie-recommendation-project</a></h3>
+        <p><i>Intelligent Hybrid Recommendation Engine</i></p>
+        <p>A statistical content filtering platform utilizing dense vector representations and user matrix arrays to generate accurate taste preferences.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
         </p>
-        <hr size="1" color="#2563EB">
-        💾 <b>Focus:</b> Sparse matrix calculations, Cosine Similarity distance vectors, and Content-Based content sorting.
+        <hr size="1" color="#22D3EE">
+        <span>💾 <b>Focus:</b> Sparse matrix calculation, Content-Based tokenization, and Cosine Similarity distance mapping.</span>
       </div>
     </td>
+
+    <!-- PROJECT 4: SPORTSHUB FULLSTACK PROJECT -->
     <td width="50%" valign="top">
       <div align="left">
-        <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project">SportsHub Platform</a></h3>
-        <p><i>Full-Stack Athletics Portal</i></p>
-        <p>A dynamic web management portal displaying high-performance real-time query pipelines and athletic tracking schemas.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project">Sportshub-Fullstack-Project</a></h3>
+        <p><i>Dynamic Athletic Web Management Platform</i></p>
+        <p>A full-stack athletics portal built to handle real-time sports tournament data ingestion, secure form validation, and relational lookups.</p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         </p>
-        <hr size="1" color="#2563EB">
-        💾 <b>Focus:</b> State mapping persistence, highly responsive UI grid arrays, and synchronous database CRUD execution.
+        <hr size="1" color="#22D3EE">
+        <span>💾 <b>Focus:</b> State mapping persistence, highly responsive UI layout design, and streamlined relational schemas.</span>
       </div>
     </td>
   </tr>
