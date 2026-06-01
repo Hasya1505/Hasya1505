@@ -27,21 +27,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/hasya-patel-667b5629b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
 <a href="https://hasyapatel15githubio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
 </a>
-
 </p>
 
 ---
@@ -106,7 +100,6 @@
 
 <table>
   <tr>
-    <!-- PROJECT 1: PHARMACY MANAGEMENT SYSTEM -->
     <td width="50%" valign="top">
       <div align="left">
         <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system">pharmacy-management-system</a></h3>
@@ -121,8 +114,6 @@
         <span>💾 <b>Focus:</b> Relational database optimization, transactional CRUD integrity, and modern Bento-Grid dashboard views.</span>
       </div>
     </td>
-
-    <!-- PROJECT 2: CREDIT CARD FRAUD ANALYSIS -->
     <td width="50%" valign="top">
       <div align="left">
         <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project">Credit-Card-Fraud-Analysis-Project</a></h3>
@@ -138,9 +129,7 @@
       </div>
     </td>
   </tr>
-
   <tr>
-    <!-- PROJECT 3: MOVIE RECOMMENDATION PROJECT -->
     <td width="50%" valign="top">
       <div align="left">
         <h3>🎬 <a href="https://github.com/Hasya1505/movie-recommendation-project">movie-recommendation-project</a></h3>
@@ -155,8 +144,6 @@
         <span>💾 <b>Focus:</b> Sparse matrix calculation, Content-Based tokenization, and Cosine Similarity distance mapping.</span>
       </div>
     </td>
-
-    <!-- PROJECT 4: SPORTSHUB FULLSTACK PROJECT -->
     <td width="50%" valign="top">
       <div align="left">
         <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project">Sportshub-Fullstack-Project</a></h3>
