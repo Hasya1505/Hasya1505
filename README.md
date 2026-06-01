@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Hasya Patel
+#Hi 👋, I am  Hasya Patel
 ### 🛠️ AI / ML Engineer & Computer Engineering Student
 
 *Transforming raw data into predictive intelligence and building robust full-stack AI applications.*
@@ -12,15 +12,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Hasya1505">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
   <a href="https://hasyapatel15githubio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
   </a>
@@ -157,7 +154,6 @@
 
 * 🩺 **AI Multi-Disease Diagnosis System:** Constructing separate, highly tailored machine learning prediction pipelines for distinct medical conditions to prevent functional cross-contamination.
 * 🐳 **MLOps System Design:** Learning Docker containerization pipelines to scale prediction modules into independent microservices.
-* 🇬🇧 **Academic Expansion:** Preparing extensively for the IELTS examination to hit a solid **Band 8** benchmark.
 
 ---
 
