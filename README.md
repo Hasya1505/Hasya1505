@@ -1,6 +1,7 @@
+<!-- PREMIUM ANIMATED TWINKLE HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&height=280&section=header&text=Hasya%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20/%20ML%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050515,20:111827,45:312E81,70:4338CA,85:5850EC,100:06B6D4&height=280&section=header&text=Hasya%20Patel&fontSize=55&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20/%20ML%20Engineer&descAlignY=60&descSize=18"/>
 
 <br/>
 
@@ -27,17 +28,15 @@
 
 <p align="center">
 
-<a href="https://github.com/Hasya1505">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/hasya-patel-667b5629b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <a href="https://hasyapatel15githubio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
@@ -45,25 +44,52 @@
 
 </p>
 
+---
+
+# 📊 GitHub Analytics Dashboard
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasya1505&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasya1505&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=06B6D4&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hasya1505&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6&sideNums=FFFFFF&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasya1505&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasya1505&theme=tokyonight"/>
+
 </div>
 
 ---
 
-# 📊 Git Metrics & Analytics
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hasya1505&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hasya1505&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6&sideNums=FFFFFF&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="49%"/>
+### 📈 Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hasya1505&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=06B6D4&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasya1505&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasya1505&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=06B6D4&point=FFFFFF"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Hasya1505&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+</div>
+
 
 ---
 
@@ -73,6 +99,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js" />
 </p>
+
+
 
 ### 🧠 Data Science & ML Engineering
 <p>
@@ -95,38 +123,62 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system">MediStore Pro (Pharmacy Billing System)</a></h3>
-      <p>A secure, scalable enterprise web application for tracking inventory metrics, multi-tier billing, and client history tracking.</p>
-      <ul>
-        <li><strong>Focus:</strong> Database schema optimization, query speed management, and interactive UI charts.</li>
-        <li><strong>Stack:</strong> Python • Flask • MySQL • CSS (Bento Grid)</li>
-      </ul>
+      <div align="left">
+        <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system">MediStore Pro</a></h3>
+        <p><i>Enterprise Pharmacy & Billing System</i></p>
+        <p>A secure, scalable architecture optimized for multi-tier medical inventory logging and client analytical summaries.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+        <hr size="1" color="#2563EB">
+        💾 <b>Focus:</b> Normalization schemas, optimized relational lookups, and glassmorphic dashboard views.
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project">Credit Card Fraud Detection Pipeline</a></h3>
-      <p>An advanced ML model solving severe class imbalance problems to correctly flag fraudulent transactional patterns.</p>
-      <ul>
-        <li><strong>Focus:</strong> SMOTE (Oversampling), Isolation Forests, Random Forest Classifier, Precision-Recall tuning.</li>
-        <li><strong>Stack:</strong> Scikit-learn • Imbalanced-learn • Pandas • Seaborn</li>
-      </ul>
+      <div align="left">
+        <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project">Fraud Analytics Pipeline</a></h3>
+        <p><i>Imbalanced Data ML Solution</i></p>
+        <p>An end-to-end classification structure resolving critical multi-factor sample anomalies to isolate deceptive banking footprints.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+        <hr size="1" color="#2563EB">
+        💾 <b>Focus:</b> Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and customized Precision-Recall tuning parameters.
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/Hasya1505/movie-recommendation-project">Hybrid Movie Recommendation Engine</a></h3>
-      <p>A dual-engine personalized filtering mechanism designed to output highly contextual system rankings based on multi-parameter datasets.</p>
-      <ul>
-        <li><strong>Focus:</strong> Cosine Similarity mapping, Collaborative Filtering, Content-Based vectors.</li>
-        <li><strong>Stack:</strong> Python • NumPy • Pandas • Scikit-learn</li>
-      </ul>
+      <div align="left">
+        <h3>🎬 <a href="https://github.com/Hasya1505/movie-recommendation-project">CineMatch Engine</a></h3>
+        <p><i>Hybrid Recommendation System</i></p>
+        <p>A smart filtering engine analyzing collaborative structural matrix arrays and token arrays to map precise user tastes.</p>
+        <p>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        </p>
+        <hr size="1" color="#2563EB">
+        💾 <b>Focus:</b> Sparse matrix calculations, Cosine Similarity distance vectors, and Content-Based content sorting.
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project">SportsHub Full-Stack Platform</a></h3>
-      <p>A live web ecosystem showcasing real-time data ingestion, tournament listings, and modern interface aesthetics.</p>
-      <ul>
-        <li><strong>Focus:</strong> State persistence, responsive grid design, dynamic form rendering.</li>
-        <li><strong>Stack:</strong> Python • Flask • MySQL • JavaScript</li>
-      </ul>
+      <div align="left">
+        <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project">SportsHub Platform</a></h3>
+        <p><i>Full-Stack Athletics Portal</i></p>
+        <p>A dynamic web management portal displaying high-performance real-time query pipelines and athletic tracking schemas.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        </p>
+        <hr size="1" color="#2563EB">
+        💾 <b>Focus:</b> State mapping persistence, highly responsive UI grid arrays, and synchronous database CRUD execution.
+      </div>
     </td>
   </tr>
 </table>
@@ -147,4 +199,44 @@
 * **`[house-price-exploration](https://github.com/Hasya1505/house-price-exploration)`**
     * *Objective:* Multi-variable feature regression evaluating physical asset variables on local real estate pricing matrix.
     * *Deep Dive:* Multicollinearity reduction using VIF (Variance Inflation Factor) and Gradient Boosting Regressors.
-* **`[Machine-Learning-Coding-](
+* **`[Machine-Learning-Coding-](https://github.com/Hasya1505/Machine-Learning-Coding-)`**
+    * *Objective:* Complete mathematical foundation repository featuring custom implementation of gradient descent, distance functions, and loss parameters without standard library wrappers.
+
+### 📊 Advanced Exploratory Data Analysis (EDA)
+> Transforming raw tabular frameworks into visual business strategies.
+
+* **`[synent-task-3-Exploratory-Data-Analysis-EDA--hasyapatel](https://github.com/Hasya1505/synent-task-3-Exploratory-Data-Analysis-EDA--hasyapatel)`**
+    * *Core Tasks:* Systematic outlier deletion using IQR limits, skewness adjustments, correlation matrix mapping, and multi-factor heatmaps.
+* **`[YouTube-EDA](https://github.com/Hasya1505/YouTube-EDA)`**
+    * *Core Tasks:* Profiling raw interaction rates (views-to-likes ratios), tracking channel growth timelines, and mapping engagement variations across custom metadata tokens.
+
+### 💻 Code Craft & Architecture Prep
+* **`[PYTHON-AND-DATASCIENCE-INTERVIEW-CODE-](https://github.com/Hasya1505/PYTHON-AND-DATASCIENCE-INTERVIEW-CODE-)`** — Production patterns, optimal algorithmic solutions, and data structure variations.
+* **`[140-Python-Basic-To-Medium-Code-](https://github.com/Hasya1505/140-Python-Basic-To-Medium-Code-)`** — Clean, documented logic flows showcasing complex daily scripting sequences.
+* **`[ldrp-demo-webpage](https://github.com/Hasya1505/ldrp-demo-webpage)`** — Base demonstration layout tracking university interface design work.
+* **`[simple-weather-forecast-python](https://github.com/Hasya1505/simple-weather-forecast-python)`** — Light asynchronous external weather integration program.
+* **`[Real-Estate-Project](https://github.com/Hasya1505/Real-Estate-Project)`** — Core dataset management and relational property parsing structures.
+* **`[ecommerce-frontend](https://github.com/Hasya1505/ecommerce-frontend)`** — Responsive modular storefront presentation layers.
+
+---
+
+# 🎯 Current Focus & Targets
+
+* 🩺 **AI Multi-Disease Diagnosis System:** Constructing separate, highly tailored machine learning prediction pipelines for distinct medical conditions to prevent functional cross-contamination.
+* 🐳 **MLOps System Design:** Learning Docker containerization pipelines to scale prediction modules into independent microservices.
+
+---
+
+<div align="center">
+
+### 🚀 “Turning datasets into decisions, and lines of code into functional realities.”
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+🧠" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050515,20:111827,45:312E81,70:4338CA,85:5850EC,100:06B6D4&height=120&section=footer"/>
+
+</div>
