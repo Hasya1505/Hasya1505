@@ -1,8 +1,3 @@
-Here is a massive, premium upgrade for your GitHub Profile README. This refactor retains **every single section and repository link** from your original file  while implementing a high-end, cohesive **Cyberpunk Cyan & Dark Mode** theme.
-
-It upgrades your project grid, injects advanced UI components, utilizes modern Markdown spacing, and optimizes your tech stack display with sleek badges.
-
-```markdown
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=280&section=header&text=Hasya%20Patel&fontSize=55&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20%20ML%20Engineer&descAlignY=60&descSize=18" />
   
@@ -94,10 +89,10 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
     <td width="50%" valign="top">
       <div align="left">
         <h3>🏥 <a href="https://github.com/Hasya1505/pharmacy-management-system/tree/pharmacy-management-system">MediStore Pro</a></h3>
-        [cite_start]<p><i>Enterprise Pharmacy Billing & Inventory Architecture</i> [cite: 5]</p>
+        <p><i>Enterprise Pharmacy Billing & Inventory Architecture</i> [cite: 5]</p>
         <p>A secure, scalable web ecosystem optimized for multi-tier medical stock logging, query processing, and analytical client billing summaries.</p>
         <p>
-          [cite_start]<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> [cite: 5]
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> [cite: 5]
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         </p>
@@ -109,7 +104,7 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
     <td width="50%" valign="top">
       <div align="left">
         <h3>💳 <a href="https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project/tree/Credit-Card-Fraud-Analysis-Project">Fraud Analytics Pipeline</a></h3>
-        [cite_start]<p><i>Advanced Machine Learning Fraud Detection Pipeline</i> [cite: 6]</p>
+        <p><i>Advanced Machine Learning Fraud Detection Pipeline</i> [cite: 6]</p>
         <p>An end-to-end predictive model solving extreme class imbalance anomalies to accurately identify and isolate deceptive financial footprints.</p>
         <p>
           <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -117,7 +112,7 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
           <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
         </p>
         <div style="background-color: #161b22; padding: 10px; border-radius: 6px; border-left: 4px solid #22D3EE;">
-          [cite_start]💾 <b>Focus:</b> Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and strict Precision-Recall threshold tuning. [cite: 7]
+          💾 <b>Focus:</b> Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and strict Precision-Recall threshold tuning. [cite: 7]
         </div>
       </div>
     </td>
@@ -129,7 +124,7 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
         <p><i>Intelligent Hybrid Recommendation Engine</i></p>
         <p>A statistical content filtering platform utilizing dense vector representations and user matrix arrays to generate accurate taste preferences.</p>
         <p>
-          [cite_start]<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> [cite: 8]
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> [cite: 8]
           <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
           <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         </p>
@@ -141,15 +136,15 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
     <td width="50%" valign="top">
       <div align="left">
         <h3>⚽ <a href="https://github.com/Hasya1505/Sportshub-Fullstack-Project/tree/Sportshub-Fullstack-Project">SportsHub</a></h3>
-        [cite_start]<p><i>Dynamic Athletic Web Management Platform</i> [cite: 9]</p>
-        [cite_start]<p>A full-stack athletics portal built to handle real-time sports tournament data ingestion, secure form validation, and relational lookups. [cite: 9]</p>
+        <p><i>Dynamic Athletic Web Management Platform</i> [cite: 9]</p>
+        <p>A full-stack athletics portal built to handle real-time sports tournament data ingestion, secure form validation, and relational lookups. [cite: 9]</p>
         <p>
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
         <div style="background-color: #161b22; padding: 10px; border-radius: 6px; border-left: 4px solid #22D3EE;">
-          [cite_start]💾 <b>Focus:</b> State mapping persistence, highly responsive UI layout design, and streamlined relational schemas. [cite: 10]
+          💾 <b>Focus:</b> State mapping persistence, highly responsive UI layout design, and streamlined relational schemas. [cite: 10]
         </div>
       </div>
     </td>
@@ -211,5 +206,3 @@ It upgrades your project grid, injects advanced UI components, utilizes modern M
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=120&section=footer" />
 </div>
-
-```
