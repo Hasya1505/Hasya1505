@@ -210,17 +210,6 @@ Transforming raw tabular frameworks into visual business strategies.
 # 🎯 Current Focus & Goals
 
 * 🩺 **AI Multi-Disease Diagnosis System:** Constructing separate, highly tailored machine learning prediction pipelines for distinct medical conditions to prevent functional cross-contamination.
-* 🐳 **MLOps System Design:** Learning Docker containerization pipelines to scale prediction modules into independent microservices.
-
-## 🗺️ 2026 Roadmap
-- [x] Advanced Machine Learning Pipeline Optimizations
-- [x] Full-Stack AI Application Implementation via Flask & MySQL
-- [/] Production AI Systems & Scalable Architectures
-- [/] MLOps Learning & Microservices Setup
-- [ ] Containerization with Docker & Deployment Topologies
-- [ ] Orchestration Systems (Kubernetes)
-- [ ] Cloud Infrastructure Integrations (AWS)
-- [ ] Open Source Contributions & AI Research Focus
 
 ---
 
