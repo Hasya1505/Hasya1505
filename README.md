@@ -1,10 +1,108 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=280&section=header&text=Hasya%20Patel&fontSize=55&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20/%20ML%20Engineer&descAlignY=60&descSize=18" alt="Hasya Patel Banner" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1500&color=22D3EE&center=true&vCenter=true&width=800&lines=🤖+Machine+Learning+📈+Data+Science;📊+Advanced+Exploratory+Data+Analysis;🚀+Flask+Full-Stack+Developer;🔮+Predictive+Analytics" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=12,20,24,30&text=HASYA%20PATEL&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🤖%20AI%20Engineer%20•%20📊%20Data%20Scientist%20•%20🚀%20Full%20Stack%20Developer&descAlignY=60&descSize=22"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Hasya+Patel;🤖+Machine+Learning+Engineer;📊+Data+Science+Enthusiast;🚀+Flask+Full+Stack+Developer;🔮+Predictive+Analytics+Specialist;💡+Turning+Data+Into+Decisions"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-4338CA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask%20Developer-0F172A?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Hasya1505&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Hasya1505?label=FOLLOWERS&style=for-the-badge&color=4338CA"/>
+
+<img src="https://img.shields.io/github/stars/Hasya1505?label=STARS&style=for-the-badge&color=7C3AED"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+
+**Computer Engineering**
+LDRP-ITR
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**AI/ML Intern**
+Synent Technology
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**20+ Projects**
+AI • ML • Flask
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+
+**Current Goal**
+MLOps & AI Systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>
+🚀 Building Intelligent Systems with AI, Data & Software
+</h3>
+
+<p>
+Passionate about Machine Learning, Predictive Analytics, Data Science, and Full-Stack Development.
+</p>
+
 </div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/hasya-patel-667b5629b">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:studyfor1505@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://hasyapatel15.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hasya1505">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ---
 
@@ -22,22 +120,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/hasya-patel-667b5629b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://hasyapatel15githubio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
-  </a>
-</div>
-
----
-
 # 📊 GitHub Analytics Dashboard
 
 <div align="center">
@@ -51,14 +133,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-# 🏆 GitHub Achievement Center
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasya1505&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -200,11 +274,6 @@ Transforming raw tabular frameworks into visual business strategies.
 
 <br/>
 
-<div align="center">
-  <h3>✨ Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=Hasya1505&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ---
 
 # 🎯 Current Focus & Goals
@@ -215,26 +284,16 @@ Transforming raw tabular frameworks into visual business strategies.
 
 <div align="center">
   <h3>🚀 “Turning datasets into decisions, and lines of code into functional realities.”</h3>
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+🧠" alt="Footer Typing SVG" />
-  
-  <br/><br/>
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/hasya-patel-667b5629b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=studyfor1505@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://hasyapatel15githubio.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
-    </a>
-  </div>
+ <div align="center">
+<div align="center">
 
-  <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting!+👋;Keep+Building+🚀;Keep+Learning+🧠;Keep+Growing+📈;AI+Engineer+In+Progress+🤖" alt="Typing Footer" />
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=120&section=footer" alt="Footer Banner" />
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=gradient&customColorList=12,20,24,30" alt="Footer Banner" />
+
+</div>
+
+</div>
 </div>
