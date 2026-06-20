@@ -1,220 +1,316 @@
-!-- PREMIUM ANIMATED TWINKLE HEADER --
-div align=center
+# 🚀 Hi, I'm Hasya Patel
 
-img width=100% src=httpscapsule-render.vercel.appapitype=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=280&section=header&text=Hasya%20Patel&fontSize=55&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20%20ML%20Engineer&descAlignY=60&descSize=18
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hasya%20Patel&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+</p>
 
-br
+<h3 align="center">
+🤖 AI & Machine Learning Engineer | 📊 Data Scientist | 💻 Full Stack Developer
+</h3>
 
-img src=httpsreadme-typing-svg.herokuapp.comfont=Outfit&weight=600&size=26&pause=1500&color=22D3EE&center=true&vCenter=true&width=800&lines=🤖+Machine+Learning+📈+Data+Science;📊+Advanced+Exploratory+Data+Analysis;🚀+Flask+Full-Stack+Developer;🔮+Predictive+Analytics 
-
-div
-
----
-
-# 👋 About Me
-
-💡 Final-year Computer Engineering student at LDRP Institute of Technology and Research (LDRP-ITR), Gandhinagar.
-
-🚀 Gaining practical industry experience as a Virtual AIML Engineering Intern at Synent Technology, delivering end-to-end data pipelines and predictive architectures.
-
-🧠 Core Competencies
- Statistical Modeling & ML Regression, Classification, Time-Series Forecasting, Clustering
- Advanced Data Analytics Feature Engineering, Outlier Treatment, Dimensionality Reduction
- Full-Stack AI Deployment Developing responsive web platforms integrated with isolated ML backends using Flask and MySQL
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Flask+Full-Stack+Developer;Computer+Engineering+Student;Building+AI+Solutions+for+Real+World+Problems"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌟 About Me
 
-p align=center
-a href=httpswww.linkedin.cominhasya-patel-667b5629butm_source=share_via&utm_content=profile&utm_medium=member_android
-  img src=httpsimg.shields.iobadgeLinkedIn-2563EBstyle=for-the-badge&logo=linkedin&logoColor=white
-a
-a href=httpsmail.google.commailview=cm&fs=1&to=studyfor1505@gmail.com
-    img src=httpsimg.shields.iobadgeGmail-EA4335style=for-the-badge&logo=gmail&logoColor=white alt=Gmail
-  a
-a href=httpshasyapatel15githubio.vercel.app
-  img src=httpsimg.shields.iobadgePortfolio-0F172Astyle=for-the-badge&logo=vercel&logoColor=22D3EE
-a
-p
+🎓 Computer Engineering Student at **LDRP Institute of Technology & Research (LDRP-ITR)**
 
----
+🚀 AI/ML Engineering Intern at **Synent Technology**
 
-# 📊 GitHub Analytics Dashboard
+📍 Gujarat, India
 
-div align=center
+💡 Passionate about:
 
-img width=49% src=httpsgithub-readme-streak-stats.herokuapp.comuser=Hasya1505&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6&sideNums=FFFFFF&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B
-
-div
+* Machine Learning
+* Data Science
+* Artificial Intelligence
+* Predictive Analytics
+* Full Stack Development
+* MLOps & Cloud Deployment
 
 ---
 
-div align=center
+## 📊 Quick Overview
 
-### 📈 Contribution Graph
+| 🎓 Education         | 💻 Projects  | 📜 Certifications       |
+| -------------------- | ------------ | ----------------------- |
+| Computer Engineering | 20+ Projects | NPTEL, Deloitte, Synent |
 
-img src=httpsgithub-readme-activity-graph.vercel.appgraphusername=Hasya1505&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=06B6D4&point=FFFFFF
-
-div
-
----
-
-div align=center
-
-###  Profile Views
-
-img src=httpskomarev.comghpvcusername=Hasya1505&label=Profile%20Views&color=0ea5e9&style=for-the-badge
-
-div
-
+| 🤖 AI/ML | 📈 Data Science | 🌐 Full Stack |
+| -------- | --------------- | ------------- |
+| Advanced | Advanced        | Flask + MySQL |
 
 ---
 
-# 🛠️ Tech Stack & Tooling
+## 🌐 Connect With Me
 
-### 💻 Languages & Frameworks
-p
-img src=httpsskillicons.deviconsi=python,flask,html,css,js 
-p
+<p align="center">
 
+<a href="https://www.linkedin.com/in/hasya-patel-667b5629b">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:studyfor1505@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🧠 Data Science & ML Engineering
-p
-  img src=httpsimg.shields.iobadgeScikit--Learn-F7931Estyle=for-the-badge&logo=scikit-learn&logoColor=white
-  img src=httpsimg.shields.iobadgePandas-150458style=for-the-badge&logo=pandas&logoColor=white
-  img src=httpsimg.shields.iobadgeNumPy-013243style=for-the-badge&logo=numpy&logoColor=blue
-  img src=httpsimg.shields.iobadgeMatplotlib-ffffffstyle=for-the-badge&logo=matplotlib&logoColor=black
-  img src=httpsimg.shields.iobadgeSeaborn-4C72B0style=for-the-badge&logo=python&logoColor=white
-p
+<a href="https://hasyapatel15.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### 🗄️ Database & Environment
-p
-img src=httpsskillicons.deviconsi=mysql,git,vscode,linux 
-p
+</p>
 
 ---
 
-# 🚀 Highlighted Project Implementations
+# 📈 GitHub Analytics
 
-table
-  tr
-    td width=50% valign=top
-      div align=left
-        h3🏥 a href=httpsgithub.comHasya1505pharmacy-management-systempharmacy-management-systemah3
-        piEnterprise Pharmacy Billing & Inventory Architectureip
-        pA secure, scalable web ecosystem optimized for multi-tier medical stock logging, query processing, and analytical client billing summaries.p
-        p align=left
-          img src=httpsimg.shields.iobadgePython-3776ABstyle=for-the-badge&logo=python&logoColor=white
-          img src=httpsimg.shields.iobadgeFlask-000000style=for-the-badge&logo=flask&logoColor=white
-          img src=httpsimg.shields.iobadgeMySQL-4479A1style=for-the-badge&logo=mysql&logoColor=white
-        p
-        hr size=1 color=#22D3EE
-        span💾 bFocusb Relational database optimization, transactional CRUD integrity, and modern Bento-Grid dashboard views.span
-      div
-    td
-    td width=50% valign=top
-      div align=left
-        h3💳 a href=httpsgithub.comHasya1505Credit-Card-Fraud-Analysis-ProjectCredit-Card-Fraud-Analysis-Projectah3
-        piAdvanced Machine Learning Fraud Detection Pipelineip
-        pAn end-to-end predictive model solving extreme class imbalance anomalies to accurately identify and isolate deceptive financial footprints.p
-        p align=left
-          img src=httpsimg.shields.iobadgeScikit--Learn-F7931Estyle=for-the-badge&logo=scikit-learn&logoColor=white
-          img src=httpsimg.shields.iobadgePandas-150458style=for-the-badge&logo=pandas&logoColor=white
-          img src=httpsimg.shields.iobadgeSeaborn-4C72B0style=for-the-badge&logo=python&logoColor=white
-        p
-        hr size=1 color=#22D3EE
-        span💾 bFocusb Synthetic Minority Over-sampling (SMOTE), Isolation Forests, and strict Precision-Recall threshold tuning.span
-      div
-    td
-  tr
-  tr
-    td width=50% valign=top
-      div align=left
-        h3🎬 a href=httpsgithub.comHasya1505movie-recommendation-projectmovie-recommendation-projectah3
-        piIntelligent Hybrid Recommendation Engineip
-        pA statistical content filtering platform utilizing dense vector representations and user matrix arrays to generate accurate taste preferences.p
-        p align=left
-          img src=httpsimg.shields.iobadgeNumPy-013243style=for-the-badge&logo=numpy&logoColor=white
-          img src=httpsimg.shields.iobadgeScikit--Learn-F7931Estyle=for-the-badge&logo=scikit-learn&logoColor=white
-          img src=httpsimg.shields.iobadgePandas-150458style=for-the-badge&logo=pandas&logoColor=white
-        p
-        hr size=1 color=#22D3EE
-        span💾 bFocusb Sparse matrix calculation, Content-Based tokenization, and Cosine Similarity distance mapping.span
-      div
-    td
-    td width=50% valign=top
-      div align=left
-        h3⚽ a href=httpsgithub.comHasya1505Sportshub-Fullstack-ProjectSportshub-Fullstack-Projectah3
-        piDynamic Athletic Web Management Platformip
-        pA full-stack athletics portal built to handle real-time sports tournament data ingestion, secure form validation, and relational lookups.p
-        p align=left
-          img src=httpsimg.shields.iobadgeFlask-000000style=for-the-badge&logo=flask&logoColor=white
-          img src=httpsimg.shields.iobadgeMySQL-4479A1style=for-the-badge&logo=mysql&logoColor=white
-          img src=httpsimg.shields.iobadgeJavaScript-F7DF1Estyle=for-the-badge&logo=javascript&logoColor=black
-        p
-        hr size=1 color=#22D3EE
-        span💾 bFocusb State mapping persistence, highly responsive UI layout design, and streamlined relational schemas.span
-      div
-    td
-  tr
-table
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasya1505&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasya1505&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasya1505&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📁 Deep Dive Machine Learning & EDA Portfolio
+## 🏆 GitHub Trophies
 
-### 🤖 Predictive Engineering & Machine Learning
- Detailed algorithmic implementations tracking specific industry objectives.
-
- `[synent-task8-Loan-Prediction-hasyapatel](httpsgithub.comHasya1505synent-task8-Loan-Prediction-hasyapatel)`
-     Objective Automate cross-verification checkpoints for risk mitigation in loan profiling.
-     Deep Dive Handled historical classification tracking, feature scaling via MinMaxScaler, and evaluation using ROC-AUC thresholds.
- `[synent-task-7--Time-Series-Analysis-hasyapatel](httpsgithub.comHasya1505synent-task-7--Time-Series-Analysis-hasyapatel)`
-     Objective Extrapolate trend lines and seasonality variations across sequenced datasets.
-     Deep Dive Applied ARIMA models and stationary tests (ADF Test) to validate temporal parameters.
- `[house-price-exploration](httpsgithub.comHasya1505house-price-exploration)`
-     Objective Multi-variable feature regression evaluating physical asset variables on local real estate pricing matrix.
-     Deep Dive Multicollinearity reduction using VIF (Variance Inflation Factor) and Gradient Boosting Regressors.
- `[Machine-Learning-Coding-](httpsgithub.comHasya1505Machine-Learning-Coding-)`
-     Objective Complete mathematical foundation repository featuring custom implementation of gradient descent, distance functions, and loss parameters without standard library wrappers.
-
-### 📊 Advanced Exploratory Data Analysis (EDA)
- Transforming raw tabular frameworks into visual business strategies.
-
- `[synent-task-3-Exploratory-Data-Analysis-EDA--hasyapatel](httpsgithub.comHasya1505synent-task-3-Exploratory-Data-Analysis-EDA--hasyapatel)`
-     Core Tasks Systematic outlier deletion using IQR limits, skewness adjustments, correlation matrix mapping, and multi-factor heatmaps.
- `[YouTube-EDA](httpsgithub.comHasya1505YouTube-EDA)`
-     Core Tasks Profiling raw interaction rates (views-to-likes ratios), tracking channel growth timelines, and mapping engagement variations across custom metadata tokens.
-
-### 💻 Code Craft & Architecture Prep
- `[PYTHON-AND-DATASCIENCE-INTERVIEW-CODE-](httpsgithub.comHasya1505PYTHON-AND-DATASCIENCE-INTERVIEW-CODE-)` — Production patterns, optimal algorithmic solutions, and data structure variations.
- `[140-Python-Basic-To-Medium-Code-](httpsgithub.comHasya1505140-Python-Basic-To-Medium-Code-)` — Clean, documented logic flows showcasing complex daily scripting sequences.
- `[ldrp-demo-webpage](httpsgithub.comHasya1505ldrp-demo-webpage)` — Base demonstration layout tracking university interface design work.
- `[simple-weather-forecast-python](httpsgithub.comHasya1505simple-weather-forecast-python)` — Light asynchronous external weather integration program.
- `[Real-Estate-Project](httpsgithub.comHasya1505Real-Estate-Project)` — Core dataset management and relational property parsing structures.
- `[ecommerce-frontend](httpsgithub.comHasya1505ecommerce-frontend)` — Responsive modular storefront presentation layers.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hasya1505&theme=tokyonight&row=2&column=4&no-frame=true"/>
+</p>
 
 ---
 
-# 🎯 Current Focus & Targets
+## 📈 Contribution Graph
 
- 🩺 AI Multi-Disease Diagnosis System Constructing separate, highly tailored machine learning prediction pipelines for distinct medical conditions to prevent functional cross-contamination.
- 🐳 MLOps System Design Learning Docker containerization pipelines to scale prediction modules into independent microservices.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasya1505&theme=tokyo-night"/>
+</p>
 
 ---
 
-div align=center
+## 👀 Profile Statistics
 
-### 🚀 “Turning datasets into decisions, and lines of code into functional realities.”
+<p align="center">
 
-br
+<img src="https://komarev.com/ghpvc/?username=Hasya1505&style=for-the-badge"/>
 
-img src=httpsreadme-typing-svg.herokuapp.comfont=Outfit&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+🧠 
+<img src="https://img.shields.io/github/followers/Hasya1505?style=for-the-badge"/>
 
-brbr
+<img src="https://img.shields.io/github/stars/Hasya1505?style=for-the-badge"/>
 
-img width=100% src=httpscapsule-render.vercel.appapitype=waving&color=0050515,20111827,45312E81,704338CA,855850EC,10006B6D4&height=120&section=footer
+</p>
 
-div
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js"/>
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask"/>
+</p>
+
+### Data Science & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+### Database & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,linux"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 Credit Card Fraud Detection
+
+* Fraud Detection using Machine Learning
+* SMOTE for Class Imbalance
+* Feature Engineering
+* Fraud Analytics Dashboard
+* Scikit-Learn + Pandas + Visualization
+
+---
+
+## 🏥 Pharmacy Management System
+
+* Flask Web Application
+* MySQL Database
+* Inventory Management
+* Billing System
+* Customer Management
+
+---
+
+## 🎬 Movie Recommendation System
+
+* Content-Based Filtering
+* TMDB API Integration
+* Cosine Similarity
+* Personalized Recommendations
+
+---
+
+## ⚽ SportsHub Platform
+
+* Sports Ground Booking
+* Event Management
+* User Authentication
+* Tournament Tracking
+* Full Stack Architecture
+
+---
+
+# 📁 Machine Learning Portfolio
+
+### 🤖 Predictive Engineering
+
+🔹 Loan Prediction System
+
+🔹 Time Series Forecasting
+
+🔹 House Price Prediction
+
+🔹 Machine Learning Algorithms Repository
+
+---
+
+### 📊 Exploratory Data Analysis
+
+🔹 YouTube Analytics EDA
+
+🔹 Business Insights Dashboard
+
+🔹 Data Cleaning Pipelines
+
+🔹 Correlation & Feature Analysis
+
+---
+
+### 💻 Development Projects
+
+🔹 Weather Forecast App
+
+🔹 E-Commerce Frontend
+
+🔹 Real Estate Platform
+
+🔹 Portfolio Website
+
+---
+
+# 📜 Certifications
+
+✅ NPTEL Python for Data Science
+
+✅ Deloitte Data Science Job Simulation
+
+✅ Synent AI/ML Internship
+
+✅ Advanced Python Programming
+
+✅ Generative AI Workshop
+
+---
+
+# 🚀 Career Journey
+
+```text
+2023 ➜ Started Computer Engineering
+
+2023 ➜ Python Programming
+
+2024 ➜ Data Science & Machine Learning
+
+2025 ➜ Full Stack Flask Development
+
+2026 ➜ AI/ML Engineering Internship
+
+Future ➜ AI Engineer & MLOps Specialist
+```
+
+---
+
+# ⚡ Technical Expertise
+
+| Skill             | Level          |
+| ----------------- | -------------- |
+| Python            | ██████████ 95% |
+| Machine Learning  | █████████ 90%  |
+| Data Analysis     | █████████ 90%  |
+| Flask Development | ████████ 85%   |
+| SQL & MySQL       | ████████ 85%   |
+| JavaScript        | ███████ 75%    |
+
+---
+
+# 🎯 Current Goals
+
+✅ AI Multi-Disease Diagnosis System
+
+✅ Credit Card Fraud Detection Platform
+
+✅ Docker & Containerization
+
+✅ Production ML Deployment
+
+✅ MLOps Learning Path
+
+✅ Open Source Contributions
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 💡 Quote
+
+### 🚀 Turning Data into Decisions & Code into Reality
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=22D3EE&center=true&width=600&lines=Keep+Learning+🧠;Keep+Building+🚀;Keep+Growing+📈"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
