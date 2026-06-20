@@ -85,7 +85,6 @@ Python • Java • C • C++ • Flask • MySQL • HTML • CSS • JavaScrip
 
 - NPTEL Python for Data Science
 - Deloitte Data Science Simulation
-- Synent AI/ML Internship
 - Advanced Python
 
 ---
@@ -98,29 +97,5 @@ Python • Java • C • C++ • Flask • MySQL • HTML • CSS • JavaScrip
 
 2025 → Full Stack Development
 
-2026 → AI/ML Internship
-
-Future → MLOps Engineer
-
 ---
 
-# 🎯 2026 Goals
-
-- Multi Disease Prediction
-- Credit Card Fraud Detection
-- Docker
-- Kubernetes
-- AWS
-- MLOps
-
----
-
-# 🐍 Open Source Activity
-
-Contribution Snake + Activity Graph + Streak Stats + Trophies
-
----
-
-# 💡 Quote
-
-Turning Data Into Decisions & Code Into Innovation.
