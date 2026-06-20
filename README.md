@@ -1,101 +1,91 @@
-# 🚀 Hasya Patel
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HASYA%20PATEL&fontSize=60&fontColor=ffffff&animation=twinkling"/>
-</p>
+<div align="center">
 
-<h3 align="center">🤖 AI & Machine Learning Engineer | 📊 Data Scientist | 💻 Full Stack Developer</h3>
+<table>
+<tr>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Flask+Developer;Computer+Engineering+Student;Building+AI+Solutions"/>
-</p>
+<td width="50%">
 
----
+### 💳 Credit Card Fraud Detection
 
-# 🧠 AI Engineer Dashboard
+Advanced Machine Learning Fraud Detection Pipeline
 
-| 🎓 Education | 💼 Role | 🚀 Projects |
-|-------------|----------|------------|
-| Computer Engineering | AI/ML Intern | 20+ |
+🔹 SMOTE & Class Imbalance Handling  
+🔹 Feature Engineering  
+🔹 Precision-Recall Optimization  
+🔹 Fraud Analytics Dashboard  
 
-| 🤖 AI/ML | 📊 Data Science | 🌐 Full Stack |
-|----------|---------------|--------------|
-| Advanced | Advanced | Flask + MySQL |
+**Tech Stack**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-# 🌐 Connect With Me
+🔗 Repository:
+https://github.com/Hasya1505/Credit-Card-Fraud-Analysis-Project
 
-- LinkedIn
-- Portfolio
-- GitHub
-- Gmail
+</td>
 
----
+<td width="50%">
 
-# 📊 GitHub Analytics
+### 🏥 Pharmacy Management System
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hasya1505&show_icons=true&theme=tokyonight)
+Enterprise Billing & Inventory Architecture
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasya1505&layout=compact&theme=tokyonight)
+🔹 Customer Management  
+🔹 Billing Automation  
+🔹 Inventory Tracking  
+🔹 Secure Authentication  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Hasya1505&theme=tokyonight)
+**Tech Stack**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🏆 Achievement Center
+🔗 Repository:
+https://github.com/Hasya1505/pharmacy-management-system
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hasya1505&theme=tokyonight)
+</td>
 
----
+</tr>
 
-# 🚀 Tech Universe
+<tr>
 
-Python • Java • C • C++ • Flask • MySQL • HTML • CSS • JavaScript • Git • Linux
+<td width="50%">
 
----
+### 🎬 Movie Recommendation System
 
-# 💳 Featured Projects
+Intelligent Recommendation Engine
 
-## Credit Card Fraud Detection
-- SMOTE
-- Random Forest
-- XGBoost
-- Fraud Analytics Dashboard
+🔹 Content-Based Filtering  
+🔹 Cosine Similarity  
+🔹 TMDB API Integration  
+🔹 Personalized Suggestions  
 
-## Pharmacy Management System
-- Flask
-- MySQL
-- Inventory
-- Billing
+🔗 Repository:
+https://github.com/Hasya1505/movie-recommendation-project
 
-## Movie Recommendation System
-- TMDB API
-- Cosine Similarity
-- Content-Based Filtering
+</td>
 
-## SportsHub
-- Booking System
-- Event Management
-- Full Stack
+<td width="50%">
 
----
+### ⚽ SportsHub Platform
 
-# 📜 Certifications
+Dynamic Sports Management System
 
-- NPTEL Python for Data Science
-- Deloitte Data Science Simulation
-- Advanced Python
+🔹 Event Management  
+🔹 Ground Booking  
+🔹 Tournament Tracking  
+🔹 Responsive Dashboard  
 
----
+🔗 Repository:
+https://github.com/Hasya1505/Sportshub-Fullstack-Project
 
-# 🛣️ Career Timeline
+</td>
 
-2023 → Python & Data Science
+</tr>
+</table>
 
-2024 → Machine Learning
-
-2025 → Full Stack Development
-
----
-
+</div>
